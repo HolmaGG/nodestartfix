@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "applying massa bootstrap fix"
-echo '[bootstrap]
+echo [bootstrap]
 max_ping = 10000
 	bootstrap_list = [
         ["149.202.86.103:31245", "5GcSNukkKePWpNSjx9STyoEZniJAN4U4EUzdsQyqhuP3WYf6nj"],
