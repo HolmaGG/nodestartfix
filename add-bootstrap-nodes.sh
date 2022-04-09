@@ -11,8 +11,7 @@ max_ping = 10000
         ["149.202.69.198:31245", "5GtiNdc8Nbn7YnCXAoP5yhAWc9ytPsqQyeabaHr5xBbZuWEXGN"],
         ["178.170.40.141:31245", "6VMWEkJ6oSeJMdBaFqKasKHkYmD1r4EEGZ4deea9jobQC6Kn7N"],
         ["159.69.185.245:31245", "7vsH2KS8gJsYj4W3gvRDibSEhrBvbaV8jbPHD4GtX4gzXBGHX5"],
-        ["51.250.24.36:31245", "5GtLpxnkvJz3CRENCxdwSoFTBciqGZMncBShV2TdAFLovhSv7F"],
-        ["207.244.255.34:31245", "6x6ey5Fvi2kfevnoQozDpKStJNHhsmGUDynsTFVrc3PAtE343G"]
+        ["51.250.24.36:31245", "5GtLpxnkvJz3CRENCxdwSoFTBciqGZMncBShV2TdAFLovhSv7F"]
     ]' > massa/massa-node/config/config.toml
 systemctl restart massad
 echo "fixed applied, wait a few minutes and check logs:"
