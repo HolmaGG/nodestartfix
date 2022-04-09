@@ -1,4 +1,6 @@
 #!/bin/bash
+echo "Stop node"
+systemctl stop massa
 echo "applying massa bootstrap fix"
 echo '[bootstrap]
 max_ping = 10000
