@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "Stop node"
-systemctl stop massa
+systemctl stop massad
 echo "applying massa bootstrap fix"
 echo '[bootstrap]
 max_ping = 10000
@@ -67,6 +67,6 @@ max_ping = 10000
         ["135.181.97.95:31245", "5Z3k7aYVU55fbBf7xqrAveTNySnDEywUUAtjWKAnWWYaKkbAai"],
         ["194.233.95.166:31245", "6eixWUbvxSTBDReVjUPzFc2yp7HT5k2KsAENkf1YeBAJ2vwzmE"]
     ]' > massa/massa-node/config/config.toml
-systemctl restart massa
+systemctl restart massad
 echo "fixed applied, wait a few minutes and check logs:"
 echo "journalctl -n 100 -f -u massa"
