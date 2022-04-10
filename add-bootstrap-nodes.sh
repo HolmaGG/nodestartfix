@@ -1,4 +1,5 @@
 #!/bin/bash
+systemctl stop massad
 echo "applying massa bootstrap fix"
 echo '[bootstrap]
 max_ping = 10000
