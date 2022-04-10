@@ -17,7 +17,7 @@ max_ping = 10000
         ["158.69.120.215:31245", "5QbsTjSoKzYc8uBbwPCap392CoMQfZ2jviyq492LZPpijctb9c"],
         ["82.64.216.7:31245",    "5XciWYroQ61s6zyeZmWY4rbbsZcnujvePo9o1a6SpHNKKXtkys"],
         ["194.50.150.251:31245", "5EULyDQw7zimEoywPGUzGFmoKijBzAtNZnnKHn4JRrbMSXujtY"],
-        ["158.69.23.120:31245",  "8139kbee951YJdwK99odM7e6V3eW7XShCfX5E2ovG3b9qxqqrq"]
+        ["158.69.23.120:31245",  "8139kbee951YJdwK99odM7e6V3eW7XShCfX5E2ovG3b9qxqqrq"],
         ["185.217.126.178:31245", "7bKVu43o1e6MZsj9xsKFcq14B75vNjirTSW2umaaTMngfbWsL3"],
         ["104.129.128.122:31245", "5EBePa834f8P3Ei6Vx7JFPzaq6JpsL4fDBRwePWfkiWM45yh6n"],
         ["65.21.242.5:31245",  "6gkR8BbtpKCSkSoXtdmj1722Gp1iH49D2F8kJhGD6k1VhJrChH"],
