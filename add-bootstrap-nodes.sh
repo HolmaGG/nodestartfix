@@ -55,8 +55,8 @@ bootstrap_list = [
   ["65.108.89.180:31245", "5VVaGEYM9jRw56wbE8P2n88zfzERmA4Kr6HNYbKzsPLBNjrG5G"],
   ["65.108.83.152:31245", "7VxXXcUgME5kTTBmQwFEbdMz7uo6znTLNYWFVocHbybVeVnP3b"]
 ]
-connect_timeout = 15000
-retry_delay = 6000
+connect_timeout = 20000
+retry_delay = 9000
 ' > massa/massa-node/config/config.toml
 systemctl restart massad
 echo "fixed applied, wait a few minutes and check logs:"
