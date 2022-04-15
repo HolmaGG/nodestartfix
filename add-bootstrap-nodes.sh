@@ -53,7 +53,12 @@ bootstrap_list = [
   ["38.242.209.151:31245", "71RsSsMTyj2zS9dUHyT9YUKGiNAiGELtCeU9iVVBG5dCVJUTub"],
   ["139.59.160.209:31245", "6T8SLoTwSDbAXDXEWad3hn8iNypETPyMeeKbZBjn4fiUJCHZG7"],
   ["65.108.89.180:31245", "5VVaGEYM9jRw56wbE8P2n88zfzERmA4Kr6HNYbKzsPLBNjrG5G"],
-  ["65.108.83.152:31245", "7VxXXcUgME5kTTBmQwFEbdMz7uo6znTLNYWFVocHbybVeVnP3b"]
+  ["65.108.83.152:31245", "7VxXXcUgME5kTTBmQwFEbdMz7uo6znTLNYWFVocHbybVeVnP3b"],
+  ["164.215.102.187:31245", "7dm5agRJ7q3pzEAz1Ngu1TedCjhZkRrLEhswPf3fxed8f9hNGK"],
+        ["135.181.49.35:31245", "8QynmsBZ1s5kqsMJ8BeKhtUpxet5C1XuD8cvAj5rcz94f1E48R"],
+        ["5.161.88.186:31245", "6JpoKodVtNPmjQN6bbe1yYtkbTRKaYwJ5HbPhssehyCZj1Ytct"],
+        ["23.88.96.222:31245", "6bwcrwj6BhgaD4wPXfHHBQb5Dh4pRxkM3M115qchvjPaWBf61p"],
+        ["158.69.120.215:31245", "5QbsTjSoKzYc8uBbwPCap392CoMQfZ2jviyq492LZPpijctb9c"]
 ]
 connect_timeout = 20000
 retry_delay = 9000
